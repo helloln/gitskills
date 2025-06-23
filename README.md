@@ -1,3 +1,2 @@
-# gitskills
-这是一个仓库说明文件
-仅用于测试
+gitkills
+这是一个项目使用说明文件 xxxxxx xxxxxxxx
